@@ -9,7 +9,7 @@
 <p align="left"></p>
 
 ###
-
+<br>
 <h6 align="left">Languages & tools:</h6>
 
 ###
@@ -41,7 +41,7 @@
 </div>
 
 ###
-
+<br>
 <p align="left"></p>
 
 ###
@@ -49,7 +49,7 @@
 <h4 align="left">🎓 Graduated with a BSc in Industrial Statistics & Mathematical Finance from the University of Colombo (2024)<br> <br>📝 Currently learning Data Science and Artificial Intelligence<br><br>⚙️ Focused on building a strong foundation in Mathematics and Statistics, while staying curious about learning new tools and emerging technologies <br><br>⚡ Fun fact: I’m fascinated by the mysteries of the unknown universe</h4>
 
 ###
-
+<br>
 <p align="left"></p>
 
 ###
@@ -65,16 +65,8 @@
 </div>
 
 ###
-
-<p align="left"></p>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tharmeem1999/Tharmeem1999/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tharmeem1999/Tharmeem1999/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Tharmeem1999/Tharmeem1999/output/pacman-contribution-graph.svg">
-</picture>
+<br>
+<p align="center"></p>
 
 ###
 
