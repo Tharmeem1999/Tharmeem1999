@@ -11,7 +11,7 @@
 
 ###
 
-<h4 align="left">🎓 Graduated with a BSc in Industrial Statistics & Mathematical Finance from the University of Colombo (2024)<br> <br>📝 Currently learning Data Science and Artificial Intelligence<br><br>⚙️ Focused on building a strong foundation in Mathematics, Statistics and Computer Science, while staying curious about learning new tools and emerging technologies <br><br>⚡ Fun fact: I’m fascinated by the mysteries of the unknown universe</h4>
+<h4 align="left">🎓 Graduated with a BSc in Industrial Statistics & Mathematical Finance from the University of Colombo (2024)<br> <br>📝 Currently learning Data Science and Artificial Intelligence<br><br>⚙️ Focused on building a strong foundation in Mathematics, Statistics and Computer Science, while staying curious about learning new tools and emerging technologies <br><br>⚡ Fun fact: I like to experience things that challenge my beliefs!</h4>
 
 <p align="left"></p>
 
