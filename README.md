@@ -2,10 +2,6 @@
 
 ###
 
-<h3 align="center">Exploring intelligence through data and emerging technologies ✨</h3>
-
-###
-
 <br>
 <p align="left"></p>
 
